@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Criação de PodCast inteiramente feito por IA
 
 ## 📒 Descrição
 Criei um novo episodio de PodCast inspirado no Candomblé, utilizando tudo de IA
